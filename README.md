@@ -2,7 +2,7 @@
 
 Card Sides Unifier merges the front and back sides of a card into a single PDF file. It’s ideal for ID cards, driver's licenses, business cards, and similar items. The file format is PDF and A4 paper size is recommended.
 
-<img src="https://raw.githubusercontent.com/hirokiwa/card-sides-unifier/c69477a778cff07fbdd257d172832469068da5de/card-sides-unifier.svg" width="800" />
+<img src="https://raw.githubusercontent.com/hirokiwa/card-sides-unifier/7585d60cbd28b4485f4c594edcbf19e602df55d4/card-sides-unifier.svg" width="800" />
 
 ## 💡 Usage
 
